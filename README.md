@@ -1,1 +1,3 @@
 # splitter
+
+ただのsplit関数
